@@ -6,6 +6,14 @@ Find word and append provided HTML tag around word.
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nexuslinkservices/html-tag-appendar/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/nexuslinkservices/html-tag-appendar/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/nexuslinkservices/html-tag-appendar/badges/build.png?b=master)](https://scrutinizer-ci.com/g/nexuslinkservices/html-tag-appendar/build-status/master)
 
+## Installation
+
+If you use composer, you can add this package by running 
+
+````
+composer require nexuslinkservices/html-tag-appendar
+````
+
 ## Usage
 
 ```
