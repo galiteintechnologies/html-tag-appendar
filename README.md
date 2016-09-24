@@ -18,6 +18,7 @@ composer require nexuslinkservices/html-tag-appendar
 
 ```
 <?php
+
 use HtmlTagAppendar\StringTagAppendar;
 
 $stringTagAppendar = new StringTagAppendar();
@@ -27,7 +28,7 @@ $content = "This content has some dummy text. I want to highlight dummy text wit
 $result = $stringTagAppendar->appendAround($content, "dummy", "<b>");
 ```
 
-## Output on PHP
+## Output
 
 ```
 This content has some <b>dummy</b> text. I want to highlight <b>dummy</b> text with bold tag.
