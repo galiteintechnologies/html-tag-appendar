@@ -11,7 +11,7 @@ Find word and append provided HTML tag around word.
 If you use composer, you can add this package by running 
 
 ````
-composer require nexuslinkservices/html-tag-appendar
+composer require galiteintechnologies/html-tag-appendar
 ````
 
 ## Usage
